@@ -1,0 +1,38 @@
+# Core ML and NLP libraries
+torch>=2.6.0
+transformers>=4.51.0
+datasets>=2.10.0
+tokenizers>=0.13.0
+
+# Haystack for document processing and retrieval
+haystack-ai>=2.0.0
+
+# OpenAI API client
+openai == 1.84.0
+
+# Data processing and analysis
+pandas>=1.5.0
+numpy>=1.24.0
+
+# Natural language processing
+nltk>=3.8.0
+jieba
+fuzzywuzzy
+rouge
+rank_bm25
+langchain_text_splitters
+langchain_community
+langchain_openai
+
+# Visualization
+matplotlib>=3.6.0
+
+# Async processing
+asyncio-throttle>=1.0.0
+
+# Optional: Additional ML utilities
+scikit-learn>=1.2.0
+tqdm>=4.64.0
+
+
+
