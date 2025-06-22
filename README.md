@@ -17,7 +17,7 @@ LastingBench introduces a novel framework designed to continuously reinforce and
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/Seriousss/knowledge_leak
+git clone https://github.com/Seriousss/lastingbench
 ```
 
 2. Create and activate conda environment:
